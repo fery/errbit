@@ -264,6 +264,7 @@ GEM
       thor (>= 0.14.6, < 2.0)
     raindrops (0.10.0)
     rake (10.0.3)
+    rb-readline (0.4.2)
     rbx-require-relative (0.0.9)
     rdoc (3.12.2)
       json (~> 1.4)
@@ -389,6 +390,7 @@ DEPENDENCIES
   rack-ssl-enforcer
   rails (= 3.2.13)
   rails_autolink (~> 1.0.9)
+  rb-readline
   ri_cal
   rspec-rails (~> 2.6)
   ruby-debug
